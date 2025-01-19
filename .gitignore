@@ -1,0 +1,36 @@
+# Virtual environments
+venv/
+env/
+
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Temporary files
+*.cache
+*.tmp
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Testing output
+.coverage
+*.pytest_cache/
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
